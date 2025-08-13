@@ -1,0 +1,2490 @@
+[25-Jun-2025 05:59:24 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750831164
+    [gross_amount] => 213000
+)
+
+[25-Jun-2025 05:59:24 UTC] Debug: customer_details = Array
+(
+    [first_name] => Sultan Hakim
+    [email] => elbadzlin33@gmail.com
+)
+
+[25-Jun-2025 05:59:24 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 5
+            [price] => 99000.00
+            [quantity] => 2
+            [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+        )
+
+)
+
+[25-Jun-2025 05:59:24 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750831164
+            [gross_amount] => 213000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => Sultan Hakim
+            [email] => elbadzlin33@gmail.com
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5
+                    [price] => 99000.00
+                    [quantity] => 2
+                    [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+                )
+
+        )
+
+)
+
+[25-Jun-2025 05:59:24 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 05:59:26 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750831166
+    [gross_amount] => 213000
+)
+
+[25-Jun-2025 05:59:26 UTC] Debug: customer_details = Array
+(
+    [first_name] => Sultan Hakim
+    [email] => elbadzlin33@gmail.com
+)
+
+[25-Jun-2025 05:59:26 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 5
+            [price] => 99000.00
+            [quantity] => 2
+            [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+        )
+
+)
+
+[25-Jun-2025 05:59:26 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750831166
+            [gross_amount] => 213000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => Sultan Hakim
+            [email] => elbadzlin33@gmail.com
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5
+                    [price] => 99000.00
+                    [quantity] => 2
+                    [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+                )
+
+        )
+
+)
+
+[25-Jun-2025 05:59:26 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 05:59:27 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750831167
+    [gross_amount] => 213000
+)
+
+[25-Jun-2025 05:59:27 UTC] Debug: customer_details = Array
+(
+    [first_name] => Sultan Hakim
+    [email] => elbadzlin33@gmail.com
+)
+
+[25-Jun-2025 05:59:27 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 5
+            [price] => 99000.00
+            [quantity] => 2
+            [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+        )
+
+)
+
+[25-Jun-2025 05:59:27 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750831167
+            [gross_amount] => 213000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => Sultan Hakim
+            [email] => elbadzlin33@gmail.com
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5
+                    [price] => 99000.00
+                    [quantity] => 2
+                    [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+                )
+
+        )
+
+)
+
+[25-Jun-2025 05:59:27 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:07:35 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750831655
+    [gross_amount] => 743000
+)
+
+[25-Jun-2025 06:07:35 UTC] Debug: customer_details = Array
+(
+    [first_name] => Sultan Hakim
+    [email] => elbadzlin33@gmail.com
+)
+
+[25-Jun-2025 06:07:35 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+    [1] => Array
+        (
+            [id] => 5
+            [price] => 99000.00
+            [quantity] => 2
+            [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+        )
+
+)
+
+[25-Jun-2025 06:07:35 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750831655
+            [gross_amount] => 743000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => Sultan Hakim
+            [email] => elbadzlin33@gmail.com
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [price] => 99000.00
+                    [quantity] => 2
+                    [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:07:35 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:16:44 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750832204
+    [gross_amount] => 743000
+)
+
+[25-Jun-2025 06:16:44 UTC] Debug: customer_details = Array
+(
+    [first_name] => Sultan Hakim
+    [email] => elbadzlin33@gmail.com
+)
+
+[25-Jun-2025 06:16:44 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+    [1] => Array
+        (
+            [id] => 5
+            [price] => 99000.00
+            [quantity] => 2
+            [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+        )
+
+)
+
+[25-Jun-2025 06:16:44 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750832204
+            [gross_amount] => 743000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => Sultan Hakim
+            [email] => elbadzlin33@gmail.com
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [price] => 99000.00
+                    [quantity] => 2
+                    [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:16:44 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:26:57 UTC] PHP Warning:  require_once(/home/sultande/vumee.sultan-dev.my.id/public/user/../../../midtrans-php-master/Midtrans.php): failed to open stream: No such file or directory in /home/sultande/vumee.sultan-dev.my.id/public/user/get_snap_token.php on line 3
+[25-Jun-2025 06:26:57 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/sultande/vumee.sultan-dev.my.id/public/user/../../../midtrans-php-master/Midtrans.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sultande/vumee.sultan-dev.my.id/public/user/get_snap_token.php on line 3
+[25-Jun-2025 06:27:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'first_name' in 'SELECT' in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php:69
+Stack trace:
+#0 /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php(69): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 69
+[25-Jun-2025 06:27:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'first_name' in 'SELECT' in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php:69
+Stack trace:
+#0 /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php(69): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 69
+[25-Jun-2025 06:28:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'first_name' in 'SELECT' in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php:69
+Stack trace:
+#0 /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php(69): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 69
+[25-Jun-2025 06:29:47 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:29:47 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750832987
+    [gross_amount] => 545000
+)
+
+[25-Jun-2025 06:29:47 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:29:47 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+)
+
+[25-Jun-2025 06:29:47 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750832987
+            [gross_amount] => 545000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:29:47 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:29:48 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:29:48 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750832988
+    [gross_amount] => 545000
+)
+
+[25-Jun-2025 06:29:48 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:29:48 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+)
+
+[25-Jun-2025 06:29:48 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750832988
+            [gross_amount] => 545000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:29:48 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:29:49 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:29:49 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750832989
+    [gross_amount] => 545000
+)
+
+[25-Jun-2025 06:29:49 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:29:49 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+)
+
+[25-Jun-2025 06:29:49 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750832989
+            [gross_amount] => 545000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:29:49 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:30:39 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:30:39 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750833039
+    [gross_amount] => 545000
+)
+
+[25-Jun-2025 06:30:39 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:30:39 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+)
+
+[25-Jun-2025 06:30:39 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750833039
+            [gross_amount] => 545000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:30:39 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:30:40 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:30:40 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750833040
+    [gross_amount] => 545000
+)
+
+[25-Jun-2025 06:30:40 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:30:40 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+)
+
+[25-Jun-2025 06:30:40 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750833040
+            [gross_amount] => 545000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:30:40 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:30:40 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:30:40 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750833040
+    [gross_amount] => 545000
+)
+
+[25-Jun-2025 06:30:40 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:30:40 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+)
+
+[25-Jun-2025 06:30:40 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750833040
+            [gross_amount] => 545000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:30:40 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:30:40 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:30:40 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750833040
+    [gross_amount] => 545000
+)
+
+[25-Jun-2025 06:30:40 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:30:40 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+)
+
+[25-Jun-2025 06:30:40 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750833040
+            [gross_amount] => 545000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:30:40 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:30:40 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:30:40 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750833040
+    [gross_amount] => 545000
+)
+
+[25-Jun-2025 06:30:40 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:30:40 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+)
+
+[25-Jun-2025 06:30:40 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750833040
+            [gross_amount] => 545000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:30:40 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:30:50 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:30:50 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750833050
+    [gross_amount] => 644000
+)
+
+[25-Jun-2025 06:30:50 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:30:50 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+    [1] => Array
+        (
+            [id] => 5
+            [price] => 99000.00
+            [quantity] => 1
+            [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+        )
+
+)
+
+[25-Jun-2025 06:30:50 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750833050
+            [gross_amount] => 644000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [price] => 99000.00
+                    [quantity] => 1
+                    [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:30:50 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:31:40 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:31:40 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750833100
+    [gross_amount] => 644000
+)
+
+[25-Jun-2025 06:31:40 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:31:40 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+    [1] => Array
+        (
+            [id] => 5
+            [price] => 99000.00
+            [quantity] => 1
+            [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+        )
+
+)
+
+[25-Jun-2025 06:31:40 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750833100
+            [gross_amount] => 644000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [price] => 99000.00
+                    [quantity] => 1
+                    [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:31:40 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:31:40 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:31:40 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750833100
+    [gross_amount] => 644000
+)
+
+[25-Jun-2025 06:31:40 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:31:40 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+    [1] => Array
+        (
+            [id] => 5
+            [price] => 99000.00
+            [quantity] => 1
+            [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+        )
+
+)
+
+[25-Jun-2025 06:31:40 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750833100
+            [gross_amount] => 644000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [price] => 99000.00
+                    [quantity] => 1
+                    [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:31:40 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:31:41 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:31:41 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750833101
+    [gross_amount] => 644000
+)
+
+[25-Jun-2025 06:31:41 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:31:41 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+    [1] => Array
+        (
+            [id] => 5
+            [price] => 99000.00
+            [quantity] => 1
+            [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+        )
+
+)
+
+[25-Jun-2025 06:31:41 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750833101
+            [gross_amount] => 644000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [price] => 99000.00
+                    [quantity] => 1
+                    [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:31:41 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:31:41 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:31:41 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750833101
+    [gross_amount] => 644000
+)
+
+[25-Jun-2025 06:31:41 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:31:41 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+    [1] => Array
+        (
+            [id] => 5
+            [price] => 99000.00
+            [quantity] => 1
+            [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+        )
+
+)
+
+[25-Jun-2025 06:31:41 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750833101
+            [gross_amount] => 644000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [price] => 99000.00
+                    [quantity] => 1
+                    [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:31:41 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:31:41 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:31:41 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750833101
+    [gross_amount] => 644000
+)
+
+[25-Jun-2025 06:31:41 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:31:41 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+    [1] => Array
+        (
+            [id] => 5
+            [price] => 99000.00
+            [quantity] => 1
+            [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+        )
+
+)
+
+[25-Jun-2025 06:31:41 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750833101
+            [gross_amount] => 644000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [price] => 99000.00
+                    [quantity] => 1
+                    [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:31:41 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:31:41 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:31:41 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750833101
+    [gross_amount] => 644000
+)
+
+[25-Jun-2025 06:31:41 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:31:41 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+    [1] => Array
+        (
+            [id] => 5
+            [price] => 99000.00
+            [quantity] => 1
+            [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+        )
+
+)
+
+[25-Jun-2025 06:31:41 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750833101
+            [gross_amount] => 644000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [price] => 99000.00
+                    [quantity] => 1
+                    [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:31:41 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:31:42 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:31:42 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750833102
+    [gross_amount] => 644000
+)
+
+[25-Jun-2025 06:31:42 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:31:42 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+    [1] => Array
+        (
+            [id] => 5
+            [price] => 99000.00
+            [quantity] => 1
+            [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+        )
+
+)
+
+[25-Jun-2025 06:31:42 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750833102
+            [gross_amount] => 644000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [price] => 99000.00
+                    [quantity] => 1
+                    [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:31:42 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:31:42 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:31:42 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750833102
+    [gross_amount] => 644000
+)
+
+[25-Jun-2025 06:31:42 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:31:42 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+    [1] => Array
+        (
+            [id] => 5
+            [price] => 99000.00
+            [quantity] => 1
+            [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+        )
+
+)
+
+[25-Jun-2025 06:31:42 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750833102
+            [gross_amount] => 644000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [price] => 99000.00
+                    [quantity] => 1
+                    [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:31:42 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:31:42 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:31:42 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750833102
+    [gross_amount] => 644000
+)
+
+[25-Jun-2025 06:31:42 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:31:42 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+    [1] => Array
+        (
+            [id] => 5
+            [price] => 99000.00
+            [quantity] => 1
+            [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+        )
+
+)
+
+[25-Jun-2025 06:31:42 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750833102
+            [gross_amount] => 644000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [price] => 99000.00
+                    [quantity] => 1
+                    [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:31:42 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:31:42 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:31:42 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750833102
+    [gross_amount] => 644000
+)
+
+[25-Jun-2025 06:31:42 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:31:42 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+    [1] => Array
+        (
+            [id] => 5
+            [price] => 99000.00
+            [quantity] => 1
+            [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+        )
+
+)
+
+[25-Jun-2025 06:31:42 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750833102
+            [gross_amount] => 644000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [price] => 99000.00
+                    [quantity] => 1
+                    [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:31:42 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:32:11 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:32:11 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750833131
+    [gross_amount] => 644000
+)
+
+[25-Jun-2025 06:32:11 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:32:11 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+    [1] => Array
+        (
+            [id] => 5
+            [price] => 99000.00
+            [quantity] => 1
+            [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+        )
+
+)
+
+[25-Jun-2025 06:32:11 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750833131
+            [gross_amount] => 644000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [price] => 99000.00
+                    [quantity] => 1
+                    [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:32:11 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:41:28 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:41:28 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750833688
+    [gross_amount] => 644000
+)
+
+[25-Jun-2025 06:41:28 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:41:28 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+    [1] => Array
+        (
+            [id] => 5
+            [price] => 99000.00
+            [quantity] => 1
+            [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+        )
+
+)
+
+[25-Jun-2025 06:41:28 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750833688
+            [gross_amount] => 644000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [price] => 99000.00
+                    [quantity] => 1
+                    [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:41:28 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:41:30 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:41:30 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750833690
+    [gross_amount] => 644000
+)
+
+[25-Jun-2025 06:41:30 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:41:30 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+    [1] => Array
+        (
+            [id] => 5
+            [price] => 99000.00
+            [quantity] => 1
+            [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+        )
+
+)
+
+[25-Jun-2025 06:41:30 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750833690
+            [gross_amount] => 644000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [price] => 99000.00
+                    [quantity] => 1
+                    [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:41:30 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:48:19 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:48:19 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750834099
+    [gross_amount] => 644000
+)
+
+[25-Jun-2025 06:48:19 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:48:19 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+    [1] => Array
+        (
+            [id] => 5
+            [price] => 99000.00
+            [quantity] => 1
+            [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+        )
+
+)
+
+[25-Jun-2025 06:48:19 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750834099
+            [gross_amount] => 644000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [price] => 99000.00
+                    [quantity] => 1
+                    [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:48:19 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:48:20 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:48:20 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750834100
+    [gross_amount] => 644000
+)
+
+[25-Jun-2025 06:48:20 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:48:20 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+    [1] => Array
+        (
+            [id] => 5
+            [price] => 99000.00
+            [quantity] => 1
+            [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+        )
+
+)
+
+[25-Jun-2025 06:48:20 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750834100
+            [gross_amount] => 644000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [price] => 99000.00
+                    [quantity] => 1
+                    [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:48:20 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:48:20 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:48:20 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750834100
+    [gross_amount] => 644000
+)
+
+[25-Jun-2025 06:48:20 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:48:20 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+    [1] => Array
+        (
+            [id] => 5
+            [price] => 99000.00
+            [quantity] => 1
+            [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+        )
+
+)
+
+[25-Jun-2025 06:48:20 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750834100
+            [gross_amount] => 644000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [price] => 99000.00
+                    [quantity] => 1
+                    [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:48:20 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 06:48:22 UTC] PHP Notice:  Undefined variable: user_id in /home/sultande/vumee.sultan-dev.my.id/public/user/checkout.php on line 102
+[25-Jun-2025 06:48:22 UTC] Debug: transaction_details = Array
+(
+    [order_id] => order_1750834102
+    [gross_amount] => 644000
+)
+
+[25-Jun-2025 06:48:22 UTC] Debug: customer_details = Array
+(
+    [first_name] => 
+    [email] => 
+)
+
+[25-Jun-2025 06:48:22 UTC] Debug: item_details = Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [price] => 530000.00
+            [quantity] => 1
+            [name] => APORESSO – GEN MAX 220W MOD ONLY
+        )
+
+    [1] => Array
+        (
+            [id] => 5
+            [price] => 99000.00
+            [quantity] => 1
+            [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+        )
+
+)
+
+[25-Jun-2025 06:48:22 UTC] Midtrans Transaction Array: Array
+(
+    [enabled_payments] => Array
+        (
+            [0] => credit_card
+            [1] => bca_va
+            [2] => gopay
+        )
+
+    [transaction_details] => Array
+        (
+            [order_id] => order_1750834102
+            [gross_amount] => 644000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => 
+            [email] => 
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [price] => 530000.00
+                    [quantity] => 1
+                    [name] => APORESSO – GEN MAX 220W MOD ONLY
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [price] => 99000.00
+                    [quantity] => 1
+                    [name] => BUAQITA SOURS SALT – SOUR PASSION FRUIT 30ML – 30MG
+                )
+
+        )
+
+)
+
+[25-Jun-2025 06:48:22 UTC] Midtrans API error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 07:17:06 UTC] Gagal membuat token: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 07:20:11 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/sultande/vumee.sultan-dev.my.id/public/user/request_token.php on line 80
+[25-Jun-2025 07:22:20 UTC] Midtrans Token Creation Error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 07:22:22 UTC] Midtrans Token Creation Error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 07:24:02 UTC] Final Midtrans Payload for order VUMEE-1750836242-685ba4126e974: 
+[25-Jun-2025 07:24:02 UTC] Midtrans Exception for order VUMEE-1750836242-685ba4126e974: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 07:24:42 UTC] Final Midtrans Payload for order VUMEE-1750836282-685ba43a87c8c: 
+[25-Jun-2025 07:24:42 UTC] Midtrans Exception for order VUMEE-1750836282-685ba43a87c8c: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 07:26:45 UTC] Final Midtrans Payload for order VUMEE-1750836405-685ba4b5ef3c1: 
+[25-Jun-2025 07:26:46 UTC] Midtrans Exception for order VUMEE-1750836405-685ba4b5ef3c1: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 07:29:08 UTC] Final Midtrans Payload for order VUMEE-1750836548-685ba544b64d8: 
+[25-Jun-2025 07:29:08 UTC] Midtrans Exception for order VUMEE-1750836548-685ba544b64d8: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+[25-Jun-2025 09:02:05 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[25-Jun-2025 09:02:05 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[25-Jun-2025 09:02:05 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[25-Jun-2025 09:02:05 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 319
+[25-Jun-2025 09:02:05 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 319
+[25-Jun-2025 09:02:05 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 320
+[25-Jun-2025 09:04:21 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/payment_success.php on line 310
+[25-Jun-2025 09:04:21 UTC] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/payment_success.php on line 311
+[25-Jun-2025 09:05:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[25-Jun-2025 09:06:15 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/payment_success.php on line 310
+[25-Jun-2025 09:06:15 UTC] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/payment_success.php on line 311
+[25-Jun-2025 09:07:24 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[25-Jun-2025 09:07:24 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[25-Jun-2025 09:07:24 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[25-Jun-2025 09:07:24 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 319
+[25-Jun-2025 09:07:24 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 319
+[25-Jun-2025 09:07:24 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 320
+[25-Jun-2025 10:33:23 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[25-Jun-2025 10:33:23 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[25-Jun-2025 10:33:23 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[25-Jun-2025 10:33:23 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 319
+[25-Jun-2025 10:33:23 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 319
+[25-Jun-2025 10:33:23 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 320
+[26-Jun-2025 11:24:57 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[26-Jun-2025 11:24:57 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[26-Jun-2025 11:24:57 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[26-Jun-2025 11:24:57 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 319
+[26-Jun-2025 11:24:57 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 319
+[26-Jun-2025 11:24:57 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 320
+[26-Jun-2025 16:34:20 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[26-Jun-2025 16:34:32 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[26-Jun-2025 16:34:32 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[26-Jun-2025 16:34:32 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[26-Jun-2025 16:34:32 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 319
+[26-Jun-2025 16:34:32 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 319
+[26-Jun-2025 16:34:32 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 320
+[26-Jun-2025 16:34:40 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[26-Jun-2025 16:34:40 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[26-Jun-2025 16:34:40 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[26-Jun-2025 16:34:40 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 319
+[26-Jun-2025 16:34:40 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 319
+[26-Jun-2025 16:34:40 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 320
+[26-Jun-2025 16:34:46 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[26-Jun-2025 16:34:46 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[26-Jun-2025 16:34:46 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[26-Jun-2025 16:34:46 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 319
+[26-Jun-2025 16:34:46 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 319
+[26-Jun-2025 16:34:46 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 320
+[02-Jul-2025 10:01:05 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[02-Jul-2025 10:01:05 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[02-Jul-2025 10:01:05 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[02-Jul-2025 10:01:05 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 319
+[02-Jul-2025 10:01:05 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 319
+[02-Jul-2025 10:01:05 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 320
+[02-Jul-2025 17:12:15 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[02-Jul-2025 17:12:26 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[02-Jul-2025 17:12:35 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[02-Jul-2025 17:12:35 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[02-Jul-2025 17:12:35 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[02-Jul-2025 17:12:35 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 319
+[02-Jul-2025 17:12:35 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 319
+[02-Jul-2025 17:12:35 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 320
+[02-Jul-2025 17:17:37 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[03-Jul-2025 05:12:49 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[03-Jul-2025 05:12:51 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[03-Jul-2025 05:14:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[03-Jul-2025 05:14:57 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[03-Jul-2025 05:15:53 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[03-Jul-2025 05:16:13 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[03-Jul-2025 05:16:22 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[03-Jul-2025 05:16:24 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[03-Jul-2025 05:16:28 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[03-Jul-2025 05:16:30 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[03-Jul-2025 05:16:32 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[03-Jul-2025 05:16:32 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[03-Jul-2025 05:16:35 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[03-Jul-2025 05:16:40 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[03-Jul-2025 05:16:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[03-Jul-2025 05:16:44 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[03-Jul-2025 05:17:24 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[03-Jul-2025 05:18:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[03-Jul-2025 05:18:07 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[03-Jul-2025 05:18:11 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[03-Jul-2025 06:30:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 485
+[03-Jul-2025 06:31:32 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 569
+[03-Jul-2025 06:34:54 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 575
+[03-Jul-2025 06:34:57 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 575
+[03-Jul-2025 06:35:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 575
+[03-Jul-2025 06:35:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 575
+[03-Jul-2025 06:35:07 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 575
+[03-Jul-2025 06:35:08 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 575
+[03-Jul-2025 06:35:10 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 575
+[03-Jul-2025 06:35:19 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 575
+[03-Jul-2025 06:35:37 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 569
+[03-Jul-2025 06:35:41 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 569
+[03-Jul-2025 06:35:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 569
+[03-Jul-2025 06:35:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 569
+[03-Jul-2025 06:35:50 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 569
+[03-Jul-2025 06:35:54 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 569
+[03-Jul-2025 06:37:46 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 605
+[03-Jul-2025 06:37:53 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 605
+[03-Jul-2025 06:38:47 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 605
+[03-Jul-2025 06:38:49 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 605
+[03-Jul-2025 06:38:52 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 605
+[03-Jul-2025 06:39:34 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 605
+[03-Jul-2025 06:40:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 608
+[03-Jul-2025 06:40:23 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 608
+[03-Jul-2025 06:40:35 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 608
+[03-Jul-2025 06:41:35 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 610
+[03-Jul-2025 06:41:36 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 610
+[03-Jul-2025 06:41:37 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 610
+[03-Jul-2025 06:41:38 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 610
+[03-Jul-2025 06:41:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 610
+[03-Jul-2025 06:41:44 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 610
+[03-Jul-2025 06:41:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 610
+[03-Jul-2025 06:41:49 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 610
+[03-Jul-2025 06:41:52 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 610
+[03-Jul-2025 06:42:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 610
+[03-Jul-2025 06:42:55 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 606
+[03-Jul-2025 06:42:56 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 606
+[03-Jul-2025 06:43:08 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 597
+[03-Jul-2025 06:43:09 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 597
+[03-Jul-2025 06:43:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 597
+[03-Jul-2025 06:44:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 597
+[03-Jul-2025 06:44:27 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 597
+[03-Jul-2025 06:45:07 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 597
+[03-Jul-2025 06:47:13 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 597
+[03-Jul-2025 06:47:18 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 597
+[03-Jul-2025 06:48:24 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 597
+[03-Jul-2025 06:48:26 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 597
+[03-Jul-2025 06:48:30 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 597
+[03-Jul-2025 07:07:08 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 597
+[03-Jul-2025 07:07:14 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[03-Jul-2025 07:07:14 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[03-Jul-2025 07:07:14 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 318
+[03-Jul-2025 07:07:14 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 319
+[03-Jul-2025 07:07:14 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 319
+[03-Jul-2025 07:07:14 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 320
+[03-Jul-2025 07:09:05 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 315
+[03-Jul-2025 07:09:05 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 315
+[03-Jul-2025 07:09:05 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 315
+[03-Jul-2025 07:09:05 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 316
+[03-Jul-2025 07:09:05 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 316
+[03-Jul-2025 07:09:05 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 317
+[03-Jul-2025 07:09:27 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 315
+[03-Jul-2025 07:09:27 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 315
+[03-Jul-2025 07:09:27 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 315
+[03-Jul-2025 07:09:27 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 316
+[03-Jul-2025 07:09:27 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 316
+[03-Jul-2025 07:09:27 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 317
+[03-Jul-2025 07:10:22 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 315
+[03-Jul-2025 07:10:22 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 315
+[03-Jul-2025 07:10:22 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 315
+[03-Jul-2025 07:10:22 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 316
+[03-Jul-2025 07:10:22 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 316
+[03-Jul-2025 07:10:22 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 317
+[03-Jul-2025 07:11:38 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 356
+[03-Jul-2025 07:11:38 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 356
+[03-Jul-2025 07:11:38 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 356
+[03-Jul-2025 07:11:38 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 357
+[03-Jul-2025 07:11:38 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 357
+[03-Jul-2025 07:11:38 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 358
+[03-Jul-2025 07:12:24 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 371
+[03-Jul-2025 07:12:24 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 371
+[03-Jul-2025 07:12:24 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 371
+[03-Jul-2025 07:12:24 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 372
+[03-Jul-2025 07:12:24 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 372
+[03-Jul-2025 07:12:24 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[03-Jul-2025 07:14:10 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[03-Jul-2025 07:14:10 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[03-Jul-2025 07:14:10 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[03-Jul-2025 07:14:10 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 374
+[03-Jul-2025 07:14:10 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 374
+[03-Jul-2025 07:14:10 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 375
+[03-Jul-2025 07:14:17 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[03-Jul-2025 07:14:17 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[03-Jul-2025 07:14:17 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[03-Jul-2025 07:14:17 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 374
+[03-Jul-2025 07:14:17 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 374
+[03-Jul-2025 07:14:17 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 375
+[03-Jul-2025 07:18:19 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[03-Jul-2025 07:18:19 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[03-Jul-2025 07:18:19 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[03-Jul-2025 07:18:19 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 374
+[03-Jul-2025 07:18:19 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 374
+[03-Jul-2025 07:18:19 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 375
+[03-Jul-2025 12:27:06 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[03-Jul-2025 12:27:06 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[03-Jul-2025 12:27:06 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[03-Jul-2025 12:27:06 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 374
+[03-Jul-2025 12:27:06 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 374
+[03-Jul-2025 12:27:06 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 375
+[03-Jul-2025 12:27:13 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 597
+[03-Jul-2025 12:27:13 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 597
+[03-Jul-2025 12:27:13 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 597
+[03-Jul-2025 12:27:13 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 597
+[03-Jul-2025 12:27:13 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 597
+[03-Jul-2025 12:27:13 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 597
+[03-Jul-2025 12:27:13 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 597
+[03-Jul-2025 12:27:13 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 597
+[03-Jul-2025 12:27:13 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 597
+[05-Jul-2025 14:54:27 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/vumeemyi/public_html/public/user/order_history.php on line 597
+[05-Jul-2025 14:54:41 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[05-Jul-2025 14:54:41 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[05-Jul-2025 14:54:41 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[05-Jul-2025 14:54:41 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 374
+[05-Jul-2025 14:54:41 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 374
+[05-Jul-2025 14:54:41 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 375
+[05-Jul-2025 15:27:49 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[05-Jul-2025 15:27:49 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[05-Jul-2025 15:27:49 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[05-Jul-2025 15:27:49 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 374
+[05-Jul-2025 15:27:49 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 374
+[05-Jul-2025 15:27:49 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 375
+[06-Jul-2025 06:14:22 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[06-Jul-2025 06:14:22 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[06-Jul-2025 06:14:22 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[06-Jul-2025 06:14:22 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 374
+[06-Jul-2025 06:14:22 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 374
+[06-Jul-2025 06:14:22 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 375
+[06-Jul-2025 07:39:25 UTC] PHP Warning:  Undefined variable $cart_count in /home/vumeemyi/public_html/public/user/cart.php on line 570
+[06-Jul-2025 07:39:50 UTC] PHP Warning:  Undefined variable $cart_count in /home/vumeemyi/public_html/public/user/cart.php on line 570
+[06-Jul-2025 07:42:45 UTC] PHP Warning:  Undefined variable $cart_count in /home/vumeemyi/public_html/public/user/checkout.php on line 93
+[06-Jul-2025 07:43:11 UTC] PHP Warning:  Undefined variable $cart_count in /home/vumeemyi/public_html/public/user/checkout.php on line 93
+[06-Jul-2025 07:43:12 UTC] PHP Warning:  Undefined variable $cart_count in /home/vumeemyi/public_html/public/user/checkout.php on line 93
+[06-Jul-2025 07:43:13 UTC] PHP Warning:  Undefined variable $cart_count in /home/vumeemyi/public_html/public/user/checkout.php on line 93
+[06-Jul-2025 07:43:13 UTC] PHP Warning:  Undefined variable $cart_count in /home/vumeemyi/public_html/public/user/checkout.php on line 93
+[06-Jul-2025 07:43:14 UTC] PHP Warning:  Undefined variable $cart_count in /home/vumeemyi/public_html/public/user/checkout.php on line 93
+[06-Jul-2025 07:43:15 UTC] PHP Warning:  Undefined variable $cart_count in /home/vumeemyi/public_html/public/user/checkout.php on line 93
+[06-Jul-2025 07:43:36 UTC] PHP Warning:  Undefined variable $cart_count in /home/vumeemyi/public_html/public/user/checkout.php on line 93
+[06-Jul-2025 07:44:09 UTC] PHP Warning:  Undefined variable $cart_count in /home/vumeemyi/public_html/public/user/checkout.php on line 93
+[06-Jul-2025 07:44:33 UTC] PHP Warning:  Undefined variable $cart_count in /home/vumeemyi/public_html/public/user/checkout.php on line 174
+[06-Jul-2025 07:48:27 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[06-Jul-2025 07:48:27 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[06-Jul-2025 07:48:27 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 373
+[06-Jul-2025 07:48:27 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 374
+[06-Jul-2025 07:48:27 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 374
+[06-Jul-2025 07:48:27 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 375
+[06-Jul-2025 07:51:04 UTC] PHP Warning:  Undefined variable $cart_count in /home/vumeemyi/public_html/public/user/status_shipping.php on line 346
+[06-Jul-2025 07:51:04 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 365
+[06-Jul-2025 07:51:04 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 365
+[06-Jul-2025 07:51:04 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 365
+[06-Jul-2025 07:51:04 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 366
+[06-Jul-2025 07:51:04 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 366
+[06-Jul-2025 07:51:04 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 367
+[24-Jul-2025 04:19:59 UTC] PHP Warning:  Undefined variable $cart_count in /home/vumeemyi/public_html/public/user/cart.php on line 570
+[24-Jul-2025 04:20:04 UTC] PHP Warning:  Undefined variable $cart_count in /home/vumeemyi/public_html/public/user/cart.php on line 570
+[24-Jul-2025 04:20:09 UTC] PHP Warning:  Undefined variable $cart_count in /home/vumeemyi/public_html/public/user/checkout.php on line 174
+[24-Jul-2025 04:21:12 UTC] PHP Warning:  Undefined variable $cart_count in /home/vumeemyi/public_html/public/user/status_shipping.php on line 346
+[24-Jul-2025 04:21:12 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 365
+[24-Jul-2025 04:21:12 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 365
+[24-Jul-2025 04:21:12 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 365
+[24-Jul-2025 04:21:12 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 366
+[24-Jul-2025 04:21:12 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 366
+[24-Jul-2025 04:21:12 UTC] PHP Warning:  Undefined variable $status in /home/vumeemyi/public_html/public/user/status_shipping.php on line 367
